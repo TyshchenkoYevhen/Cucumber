@@ -9,8 +9,6 @@ import org.openqa.selenium.WebDriver;
 
 import java.util.concurrent.TimeUnit;
 
-import static org.junit.Assert.*;
-
 public class Stepdefs {
 
     private WebDriver driver;
