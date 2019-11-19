@@ -19,7 +19,7 @@ public class ShowBanner {
         this.driver.navigate().to(MAIN_PAGE_URL);
         return this;
     }
-    public ShowBanner clickDress (){
+    public ShowBanner clickDress(){
         this.driver.findElement(dressButton).click();
         return this;
     }
